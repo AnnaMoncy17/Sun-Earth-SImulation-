@@ -1,0 +1,39 @@
+body {
+  text-align:center
+}
+#head{
+  font-family:Comic Sans Ms;
+  font-variant: small-caps;
+}
+#p1{
+  font-family: Comic Sans Ms;
+  font-size: 18px;
+}
+#p2{
+  font-family: Comic Sans Ms;
+  font-size: 18px;
+}
+h2{
+  font-family: Comic Sans Ms;
+  font-size: 18px;
+}
+h3{
+  font-family: Comic Sans Ms;
+  font-size: 18px;
+}
+h4{
+  font-family: Comic Sans Ms;
+  font-size: 18px;
+}
+h5{
+  font-family: Comic Sans Ms;
+  font-size: 18px;
+}
+#image{
+  width: 100%
+}
+
+h1 {
+  font-family:Comic Sans Ms;
+  font-size:35px
+}
